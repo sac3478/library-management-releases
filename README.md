@@ -133,9 +133,9 @@ Every installation of **Library Management System** uses an **Ed25519 digital si
 | License Plan | Price (USD) | Validity Duration | Hardware Binding | Instant Delivery / Action |
 | :--- | :---: | :--- | :--- | :--- |
 | **Free Evaluation Trial** | **FREE ($0)** | **24 Hours (1 Day)** | 1 Activation per PC (`Machine ID`) | Use Key: `LMS-FREE-24HR-DEMO-2026` |
-| **Monthly License** | **$10 USD** | **30 Days (1 Month)** | 1 Workstation (`Machine ID`) | [**Buy 1-Month Key ($10) Online**](https://library-activation-api.sachinniroshan.workers.dev/buy?plan=monthly) |
-| **Annual License** | **$29 USD** | **365 Days (1 Full Year)** | 1 Workstation (`Machine ID`) | [**Buy 1-Year Key ($29) Online**](https://library-activation-api.sachinniroshan.workers.dev/buy?plan=annual) |
-| **Lifetime License** *(Best Value)* | **$49 USD** | **Permanent (Never Expires)** | 1 Workstation (`Machine ID`) | [**Buy Lifetime Key ($49) Online**](https://library-activation-api.sachinniroshan.workers.dev/buy?plan=lifetime) |
+| **Monthly License** | **$10 USD** | **30 Days (1 Month)** | 1 Workstation (`Machine ID`) | <a href="https://library-activation-api.sachinniroshan.workers.dev/buy?plan=monthly" target="_blank" rel="noopener noreferrer"><strong>Buy 1-Month Key ($10) Online</strong></a> |
+| **Annual License** | **$29 USD** | **365 Days (1 Full Year)** | 1 Workstation (`Machine ID`) | <a href="https://library-activation-api.sachinniroshan.workers.dev/buy?plan=annual" target="_blank" rel="noopener noreferrer"><strong>Buy 1-Year Key ($29) Online</strong></a> |
+| **Lifetime License** *(Best Value)* | **$49 USD** | **Permanent (Never Expires)** | 1 Workstation (`Machine ID`) | <a href="https://library-activation-api.sachinniroshan.workers.dev/buy?plan=lifetime" target="_blank" rel="noopener noreferrer"><strong>Buy Lifetime Key ($49) Online</strong></a> |
 
 ### How Instant Automated License Delivery Works:
 1. **Pay Online via PayPal**: Select your preferred plan (**$10 Monthly**, **$29 Annual**, or **$49 Lifetime**) and complete checkout with PayPal or a Credit/Debit Card.
