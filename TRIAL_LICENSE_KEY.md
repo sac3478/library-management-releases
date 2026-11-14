@@ -34,8 +34,8 @@ LMS-FREE-24HR-DEMO-2026
 When your 24-hour evaluation expires, or if you need a **Monthly ($10)**, **Annual ($29)**, or **Lifetime ($49)** commercial license key for your library, you can purchase online or contact:
 
 - **Online Instant Checkout**:
-  - [**1-Month License ($10 USD)**](https://library-activation-api.sachinniroshan.workers.dev/buy?plan=monthly)
-  - [**1-Year License ($29 USD)**](https://library-activation-api.sachinniroshan.workers.dev/buy?plan=annual)
-  - [**Lifetime License ($49 USD)**](https://library-activation-api.sachinniroshan.workers.dev/buy?plan=lifetime)
+  - <a href="https://library-activation-api.sachinniroshan.workers.dev/buy?plan=monthly" target="_blank" rel="noopener noreferrer"><strong>1-Month License ($10 USD)</strong></a>
+  - <a href="https://library-activation-api.sachinniroshan.workers.dev/buy?plan=annual" target="_blank" rel="noopener noreferrer"><strong>1-Year License ($29 USD)</strong></a>
+  - <a href="https://library-activation-api.sachinniroshan.workers.dev/buy?plan=lifetime" target="_blank" rel="noopener noreferrer"><strong>Lifetime License ($49 USD)</strong></a>
 - **Developer & Licensing Contact**: **Sachin Niroshana Jayasundara**
 - **Email**: [**sac3478@gmail.com**](mailto:sac3478@gmail.com?subject=Library%20Management%20System%20-%20License%20Key%20Request)
