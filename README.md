@@ -12,7 +12,7 @@
 
 ---
 
-[**Download Latest App Installer (v1.0.4 .exe)**](https://github.com/sac3478/library-management-releases/releases/download/v1.0.4/Library-Management-Setup-1.0.4.exe) | [**24-Hour Free Trial Key**](#24-hour-free-evaluation-license-key) | [**Full Feature Overview**](#comprehensive-feature-overview) | [**Pricing & Instant Buy ($10 / $29 / $49)**](#commercial-licensing-pricing--instant-paypal-checkout)
+[**Download Latest App Installer (v1.0.4)**](https://github.com/sac3478/library-management-releases/releases/download/v1.0.4/Library-Management-Setup-1.0.4.exe) | [**24-Hour Free Trial Key**](#24-hour-free-evaluation-license-key) | [**Full Feature Overview**](#comprehensive-feature-overview) | [**Pricing & Instant Buy ($10 / $29 / $49)**](#commercial-licensing-pricing--instant-paypal-checkout)
 
 <br />
 
