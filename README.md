@@ -73,8 +73,8 @@ LMS-FREE-24HR-DEMO-2026
   - **Book Labels with Details**: Print spine or cover stickers showing the **Library Name, Book Title, Author, Category, Shelf Location, and Code 128B Barcode**.
   - **Member Card Labels & CR80 ID Cards with Details**: Print member cards or stickers showing the **Library Name, Member Full Name, Parent/Guardian, Phone, NIC/ID, Subscription Expiry, and Card Barcode**.
   - **Batch Unassigned Barcodes**: Pre-print sheets or rolls of sequential blank book or member barcodes in bulk and assign them later at the Scan Desk by scanning them.
-- **9 Built-in Printer Presets (Thermal & Standard A4)**:
-  - **Thermal Label Roll Printers** (Xprinter, Zebra, TSC, Munbyn, Brother, Rollo): `50 x 25 mm`, `50 x 30 mm`, `60 x 40 mm`, `38 x 25 mm`, and `CR80 ID Card (85.6 x 54 mm)` with single-label page breaks.
+- **11 Built-in Printer Presets (Thermal & Standard A4)**:
+  - **Thermal Label Roll Printers** (Xprinter, Zebra, TSC, Munbyn, Brother, Rollo): `30 x 15 mm`, `38 x 25 mm`, `40 x 20 mm`, `50 x 25 mm`, `50 x 30 mm`, `60 x 40 mm`, and `CR80 ID Card (85.6 x 54 mm)` with single-label page breaks.
   - **A4 Adhesive Sticker Sheets** (Laser / Inkjet): `24-up (3x8)`, `30-up (3x10)`, `14-up (2x7)`, and `8-up CR80 ID Cards (2x4)`.
 - **Partial Sticker Sheet Saver**: Reuse partially used A4 sticker sheets by choosing how many sticker slots were already peeled off (`Skip first N used sticker slots`) so no sticker paper is wasted.
 
