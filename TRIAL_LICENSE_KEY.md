@@ -10,7 +10,7 @@ LMS-FREE-24HR-DEMO-2026
 
 ## Activation Instructions
 
-1. Download and install the latest **`Library-Management-Setup-x.x.x.exe`** from the [**Official Releases Page**](https://github.com/sac3478/library-management-releases/releases/latest).
+1. Download and install the latest Library Management App installer directly: [**Download Library-Management-Setup-1.0.4.exe**](https://github.com/sac3478/library-management-releases/releases/download/v1.0.4/Library-Management-Setup-1.0.4.exe).
 2. Open **Library Management** on your Windows computer.
 3. On the **Activate Product** screen, copy and paste the evaluation key above:
    - **`LMS-FREE-24HR-DEMO-2026`**
