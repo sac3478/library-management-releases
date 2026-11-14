@@ -5,14 +5,14 @@
 
 **High-Speed Barcode Circulation | Built-In Barcode & Label Printer Studio | WhatsApp Reminders | Recurring Member Subscriptions | Physical Return Verification | Offline-First SQLite Engine**
 
-[![Latest Release](https://img.shields.io/github/v/release/sac3478/library-management-releases?style=for-the-badge&label=Latest%20Release&color=2563eb)](https://github.com/sac3478/library-management-releases/releases/latest)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(64--bit)-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sac3478/library-management-releases/releases/latest)
-[![Architecture](https://img.shields.io/badge/Engine-Offline--First%20SQLite%20WAL-10b981?style=for-the-badge)](https://github.com/sac3478/library-management-releases/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/sac3478/library-management-releases?style=for-the-badge&label=Latest%20Release&color=2563eb)](https://github.com/sac3478/library-management-releases/releases/download/v1.0.4/Library-Management-Setup-1.0.4.exe)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(64--bit)-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sac3478/library-management-releases/releases/download/v1.0.4/Library-Management-Setup-1.0.4.exe)
+[![Architecture](https://img.shields.io/badge/Engine-Offline--First%20SQLite%20WAL-10b981?style=for-the-badge)](https://github.com/sac3478/library-management-releases/releases/download/v1.0.4/Library-Management-Setup-1.0.4.exe)
 [![License Contact](https://img.shields.io/badge/License%20%26%20Sales-sac3478%40gmail.com-f59e0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sac3478@gmail.com)
 
 ---
 
-[**Download Latest Installer (.exe)**](https://github.com/sac3478/library-management-releases/releases/latest) | [**24-Hour Free Trial Key**](#24-hour-free-evaluation-license-key) | [**Full Feature Overview**](#comprehensive-feature-overview) | [**Pricing & Instant Buy ($10 / $29 / $49)**](#commercial-licensing-pricing--instant-paypal-checkout)
+[**Download Latest App Installer (v1.0.4 .exe)**](https://github.com/sac3478/library-management-releases/releases/download/v1.0.4/Library-Management-Setup-1.0.4.exe) | [**24-Hour Free Trial Key**](#24-hour-free-evaluation-license-key) | [**Full Feature Overview**](#comprehensive-feature-overview) | [**Pricing & Instant Buy ($10 / $29 / $49)**](#commercial-licensing-pricing--instant-paypal-checkout)
 
 <br />
 
@@ -41,7 +41,7 @@ LMS-FREE-24HR-DEMO-2026
 ```
 
 ### How the 24-Hour Evaluation Key Works:
-1. **Download & Install**: Download the latest `Library-Management-Setup-x.x.x.exe` from the [**Releases**](https://github.com/sac3478/library-management-releases/releases/latest) page and launch the application.
+1. **Download & Install**: Click [**Download Library-Management-Setup-1.0.4.exe**](https://github.com/sac3478/library-management-releases/releases/download/v1.0.4/Library-Management-Setup-1.0.4.exe) to download the latest installer directly and launch the application.
 2. **Paste the Key**: Enter `LMS-FREE-24HR-DEMO-2026` on the **Activate Product** screen and click **Activate Application** *(requires a brief internet connection to bind the evaluation certificate)*.
 3. **Full Access for 24 Hours**: Unlocks all Super Admin, barcode circulation, barcode label printing, smartphone scanner, catalog, and reporting features for **24 hours (1 full day)**.
 4. **Hardware Policy (1 Use Per Computer)**:
